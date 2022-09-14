@@ -1,4 +1,4 @@
-# marvel_characters
+# Marvel Characters
 
 This project aims to demonstrate the use of API provided by Marvel using DIO.
 
